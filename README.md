@@ -2,7 +2,7 @@
 
 Code for the method in the paper ATTA: Adaptive Test-Time Adaptation for Multi-Modal Sleep Stage Classification (Accepted by IJCAI 2024).
 
- ![](assets\Figure.png)
+ ![Figure1](assets\Figure.png)
 
 ## Datasets
 
